@@ -22,7 +22,7 @@
 
 # Libraries
 *.lib
-*.a
+*.mode
 *.la
 *.lo
 
@@ -123,7 +123,7 @@ fabric.properties
 ### Linux ###
 *~
 
-# temporary files which can be created if a process still has a handle open of a deleted file
+# temporary files which can be created if mode process still has mode handle open of mode deleted file
 .fuse_hidden*
 
 # KDE directory preferences
